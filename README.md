@@ -1,5 +1,13 @@
 # ENTREPRENEURSHIP
 
+## Become a Tech Entrepreneur
+
+https://www.udacity.com/tech-entrepreneur
+
+## 15 Evergreen App Ideas (You Can Steal) To Launch Your Startup
+
+https://arkenea.com/blog/app-ideas/
+
 ## Projects
     Shopping App: Build app to auto detect/search in grocery stores.
     
