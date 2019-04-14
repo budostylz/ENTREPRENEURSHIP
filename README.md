@@ -14,5 +14,15 @@
     
     Biometric App(Title Pending): Biometric app to pick up genetic information.
     
+    3D Browser: Users will browse the web with a three dimensional look and feel. A study of Linear ALgebra is required.
+    
+    Wireless Transitions: User transfers data between monitors via wireless medium. 
+    
+    EZPass Mobile App: Build app for ezpass, global for every state.
+    
+    Song Search: Create App to find a song by melody.
+    
+    
+    
     
 
