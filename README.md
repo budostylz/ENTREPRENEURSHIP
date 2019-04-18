@@ -41,6 +41,10 @@ https://arkenea.com/blog/app-ideas/
  ## Google Trends
  
  https://trends.google.com/trends/?geo=US
+ 
+ ## Google ADWords
+ 
+ https://ads.google.com
     
     
     
