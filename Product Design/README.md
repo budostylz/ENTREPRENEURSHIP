@@ -29,3 +29,6 @@
  
  https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea
 
+## 4 Steps To Building A Compelling Value Proposition
+
+https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/#29647eec4695
