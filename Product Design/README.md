@@ -10,4 +10,10 @@
     
     Mission Impossible - Ideas that are impossible or almost impossible. Project Loon's idea is to create access to Internet in rural areas by using helium baloons.
 
+## Market Trend Analysis
+
+    1. Keyword Validation
+    2. Content Competition
+    3. Geographic Validation
+    4. Social Media Validation
 
