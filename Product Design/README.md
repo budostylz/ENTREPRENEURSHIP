@@ -41,3 +41,9 @@ https://www.similarweb.com
 
 https://whois.net
 
+## Refine Yor Idea
+
+https://docs.google.com/presentation/d/1X2t0PQ6G8Y4K9z4eXl4b0CWD6EZ-0GuGuQqZe2NYjDI/pub
+
+
+
