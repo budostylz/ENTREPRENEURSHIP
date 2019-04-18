@@ -37,6 +37,10 @@ https://arkenea.com/blog/app-ideas/
  ## SCORE
  
  https://www.score.org
+ 
+ ## Google Trends
+ 
+ https://trends.google.com/trends/?geo=US
     
     
     
