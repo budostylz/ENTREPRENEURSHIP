@@ -38,17 +38,7 @@ https://arkenea.com/blog/app-ideas/
  
  https://www.score.org
  
- ## Google Trends
- 
- https://trends.google.com/trends/?geo=US
- 
- ## Google ADWords
- 
- https://ads.google.com
- 
- ## How To Evaluate Market Demand For Your New Product Idea
- 
- https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea
+
     
     
     
