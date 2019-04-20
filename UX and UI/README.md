@@ -39,4 +39,6 @@ https://drive.draw.io
 ## Persona Example
 https://docs.google.com/presentation/d/1vTsYE4VT1ybw8VIcN3UGINL3tUrSlRyQEBduuVe0ib4/pub?start=false&loop=false&delayms=15000&slide=id.p
 
+## Build It With The User in Mind: How to Design User Flow
 
+https://conversionxl.com/blog/how-to-design-user-flow/
