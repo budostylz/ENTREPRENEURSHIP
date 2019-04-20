@@ -12,6 +12,6 @@
 ## Google Design
  https://design.google
  
-## SEE(SEE lets you view the web as a user with a visual impairment)
+## SEE lets you view the web as a user with a visual impairment
 
 https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn?hl=en
