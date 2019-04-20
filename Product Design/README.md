@@ -10,6 +10,7 @@
 
     Mission Impossible - Ideas that are impossible or almost impossible. Project Loon's idea is to create access to Internet in rural areas by using helium baloons.
 
+<<<<<<< HEAD
 ## Which idea should I choose?
 
     1. Is idea a Vitamin(Nice to Have/Pleaseure Seeking) or Pain Killer(Pain Alleviation)
@@ -65,6 +66,42 @@ https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research
 
 
 
+=======
+## Market Trend Analysis
+
+    1. Keyword Validation
+    2. Content Competition
+    3. Geographic Validation
+    4. Social Media Validation
+
+ ## Google Trends
+ 
+ https://trends.google.com/trends/?geo=US
+ 
+ ## Google ADWords
+ 
+ https://ads.google.com
+ 
+ ## How To Evaluate Market Demand For Your New Product Idea
+ 
+ https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea
+
+## 4 Steps To Building A Compelling Value Proposition
+
+https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/#29647eec4695
+
+## Similar Web
+
+https://www.similarweb.com
+
+## Whois.net
+
+https://whois.net
+
+## Refine Yor Idea
+
+https://docs.google.com/presentation/d/1X2t0PQ6G8Y4K9z4eXl4b0CWD6EZ-0GuGuQqZe2NYjDI/pub
+>>>>>>> e1608e8b852360649cc0e6c38f9c3cfacb08b956
 
 
 

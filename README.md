@@ -4,6 +4,10 @@
 
 https://www.udacity.com/tech-entrepreneur
 
+## To Patent or Not to Patent? 
+
+https://www.entrepreneur.com/article/80088
+
 ## 15 Evergreen App Ideas (You Can Steal) To Launch Your Startup
 
 https://arkenea.com/blog/app-ideas/
@@ -29,6 +33,12 @@ https://arkenea.com/blog/app-ideas/
     EZPass Mobile App: Build app for ezpass, global for every state.
     
     Song Search: Create App to find a song by melody.
+    
+ ## SCORE
+ 
+ https://www.score.org
+ 
+
     
     
     
