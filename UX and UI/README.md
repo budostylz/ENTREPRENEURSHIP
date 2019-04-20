@@ -42,3 +42,7 @@ https://docs.google.com/presentation/d/1vTsYE4VT1ybw8VIcN3UGINL3tUrSlRyQEBduuVe0
 ## Build It With The User in Mind: How to Design User Flow
 
 https://conversionxl.com/blog/how-to-design-user-flow/
+
+## Sarah's Broadband Provider Journey
+
+https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/03/experience-maps.jpg
