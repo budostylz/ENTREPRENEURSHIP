@@ -31,3 +31,18 @@ https://www.w3.org/TR/WCAG20/
 ## Google I/O 2015 - Improve your Android app's accessibility
 
 https://www.youtube.com/watch?v=euEsfNR5Zw4&feature=youtu.be
+
+## Draw.io
+
+https://drive.draw.io
+
+## Persona Example
+https://docs.google.com/presentation/d/1vTsYE4VT1ybw8VIcN3UGINL3tUrSlRyQEBduuVe0ib4/pub?start=false&loop=false&delayms=15000&slide=id.p
+
+## Build It With The User in Mind: How to Design User Flow
+
+https://conversionxl.com/blog/how-to-design-user-flow/
+
+## Sarah's Broadband Provider Journey
+
+https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/03/experience-maps.jpg
