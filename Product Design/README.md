@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## Product Design
-=======
 ## Types of Ideas
 
     Simplify - Make process or task much easier for user. Instagram feature of creating page layouts from uploaded camera images.
@@ -99,10 +96,6 @@ https://whois.net
 ## Refine Yor Idea
 
 https://docs.google.com/presentation/d/1X2t0PQ6G8Y4K9z4eXl4b0CWD6EZ-0GuGuQqZe2NYjDI/pub
-
-
-
->>>>>>> 2f0af1622361d65089b30df5a6b3c377abb263af
 
         1. Ideation & Validation
         2. UX and UI
