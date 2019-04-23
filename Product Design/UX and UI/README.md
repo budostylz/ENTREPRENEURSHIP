@@ -8,3 +8,7 @@
         3. Tools
         4. Tasks
         5. Goals
+        
+## 4 Myths About Apple Design, From An Ex-Apple Designer
+
+https://www.fastcompany.com/3030923/4-myths-about-apple-design-from-an-ex-apple-designer
