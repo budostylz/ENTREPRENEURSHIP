@@ -24,6 +24,9 @@ https://foundr.com/
 ## How to Start Your Online Business for $127 or Less
 https://foundr.com/how-to-start-an-online-business/
 
+## Canva
+https://www.canva.com/
+
 
 
  
