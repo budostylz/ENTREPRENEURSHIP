@@ -21,6 +21,9 @@ https://medium.com/@the_manifest/how-to-make-money-making-apps-75c3e07bbba8
 ## foundr
 https://foundr.com/
 
+## How to Start Your Online Business for $127 or Less
+https://foundr.com/how-to-start-an-online-business/
+
 
 
  
