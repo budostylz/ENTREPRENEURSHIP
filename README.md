@@ -18,6 +18,11 @@ https://opensource.guide/legal/
 ## How to Make Money Making Apps
 https://medium.com/@the_manifest/how-to-make-money-making-apps-75c3e07bbba8
 
+## foundr
+https://foundr.com/
+
+
+
  
 
     
