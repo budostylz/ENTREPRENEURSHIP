@@ -30,6 +30,10 @@ https://foundr.com/how-to-start-an-online-business/
 ## Canva
 https://www.canva.com/
 
+## 12 Steps: Starting A Business While Working Full Time
+https://startupbros.com/starting-a-business-while-working-full-time/
+
+
 
 
  
