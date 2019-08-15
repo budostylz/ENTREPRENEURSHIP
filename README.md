@@ -33,6 +33,9 @@ https://www.canva.com/
 ## 12 Steps: Starting A Business While Working Full Time
 https://startupbros.com/starting-a-business-while-working-full-time/
 
+## 10 Ways to Effectively Monetize Your Mobile App
+https://buildfire.com/ways-monetize-mobile-app/
+
 
 
 
