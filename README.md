@@ -1,22 +1,50 @@
 # ENTREPRENEURSHIP
 
 ## Become a Tech Entrepreneur
-
 https://www.udacity.com/tech-entrepreneur
 
-## To Patent or Not to Patent? 
+## How to Build a Startup
+https://www.udacity.com/course/how-to-build-a-startup--ep245
 
+## To Patent or Not to Patent? 
 https://www.entrepreneur.com/article/80088
 
 ## 15 Evergreen App Ideas (You Can Steal) To Launch Your Startup
-
 https://arkenea.com/blog/app-ideas/
 
  ## SCORE
  
  https://www.score.org
 
+## SCORE 
+https://www.score.org
+
+## The Legal Side of Open Source
+https://opensource.guide/legal/
+
+## How to Make Money Making Apps
+https://medium.com/@the_manifest/how-to-make-money-making-apps-75c3e07bbba8
+
+## foundr
+https://foundr.com/
+
+## How to Start Your Online Business for $127 or Less
+https://foundr.com/how-to-start-an-online-business/
+
+## Canva
+https://www.canva.com/
+
+## 12 Steps: Starting A Business While Working Full Time
+https://startupbros.com/starting-a-business-while-working-full-time/
+
+## 10 Ways to Effectively Monetize Your Mobile App
+https://buildfire.com/ways-monetize-mobile-app/
+
  ![ENTREPRENEURSHIP](https://github.com/budostylz/ENTREPRENEURSHIP/make_money_the_startup_way.png "ENTREPRENEURSHIP")
+
+
+
+
 
  
 
