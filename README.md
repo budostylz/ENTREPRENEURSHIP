@@ -12,11 +12,12 @@ https://www.entrepreneur.com/article/80088
 
 https://arkenea.com/blog/app-ideas/
 
-
-    
  ## SCORE
  
  https://www.score.org
+
+ ![ENTREPRENEURSHIP](https://github.com/budostylz/ENTREPRENEURSHIP/make_money_the_startup_way.png "ENTREPRENEURSHIP")
+
  
 
     
