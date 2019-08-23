@@ -40,7 +40,7 @@ https://startupbros.com/starting-a-business-while-working-full-time/
 ## 10 Ways to Effectively Monetize Your Mobile App
 https://buildfire.com/ways-monetize-mobile-app/
 
- ![ENTREPRENEURSHIP](https://github.com/budostylz/ENTREPRENEURSHIP/make_money_the_startup_way.png "ENTREPRENEURSHIP")
+ ![ENTREPRENEURSHIP](https://github.com/budostylz/ENTREPRENEURSHIP/blob/master/make_money_the_startup_way.PNG "ENTREPRENEURSHIP")
 
 
 
