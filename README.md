@@ -1,10 +1,10 @@
 # ENTREPRENEURSHIP
 
-## Become a Tech Entrepreneur
-https://www.udacity.com/tech-entrepreneur
-
 ## How to Build a Startup
 https://www.udacity.com/course/how-to-build-a-startup--ep245
+
+## App Monetization
+https://www.udacity.com/course/app-monetization--ud518
 
 ## To Patent or Not to Patent? 
 https://www.entrepreneur.com/article/80088
@@ -41,7 +41,14 @@ https://startupbros.com/starting-a-business-while-working-full-time/
 https://buildfire.com/ways-monetize-mobile-app/
 
  ![ENTREPRENEURSHIP](https://github.com/budostylz/ENTREPRENEURSHIP/blob/master/make_money_the_startup_way.PNG "ENTREPRENEURSHIP")
+ 
+ ## HOW TO START AN APP DEVELOPMENT COMPANY
+ https://howtostartanllc.com/business-ideas/app-development
 
+## Example Sites
+https://app-sauce.com/
+
+https://applife.io/
 
 
 
