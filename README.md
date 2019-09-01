@@ -45,8 +45,10 @@ https://buildfire.com/ways-monetize-mobile-app/
  ## HOW TO START AN APP DEVELOPMENT COMPANY
  https://howtostartanllc.com/business-ideas/app-development
 
-## Example Site
+## Example Sites
 https://app-sauce.com/
+
+https://applife.io/
 
 
 
