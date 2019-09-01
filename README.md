@@ -1,6 +1,3 @@
-# Example Site
-https://app-sauce.com/
-
 # ENTREPRENEURSHIP
 
 ## Become a Tech Entrepreneur
@@ -48,6 +45,8 @@ https://buildfire.com/ways-monetize-mobile-app/
  ## HOW TO START AN APP DEVELOPMENT COMPANY
  https://howtostartanllc.com/business-ideas/app-development
 
+## Example Site
+https://app-sauce.com/
 
 
 
