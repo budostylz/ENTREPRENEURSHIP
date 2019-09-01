@@ -1,7 +1,7 @@
 # ENTREPRENEURSHIP
 
-## Become a Tech Entrepreneur
-https://www.udacity.com/tech-entrepreneur
+## How to Build a Startup
+https://www.udacity.com/course/how-to-build-a-startup--ep245
 
 ## How to Build a Startup
 https://www.udacity.com/course/how-to-build-a-startup--ep245
