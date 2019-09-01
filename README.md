@@ -3,9 +3,6 @@
 ## How to Build a Startup
 https://www.udacity.com/course/how-to-build-a-startup--ep245
 
-## How to Build a Startup
-https://www.udacity.com/course/how-to-build-a-startup--ep245
-
 ## To Patent or Not to Patent? 
 https://www.entrepreneur.com/article/80088
 
