@@ -53,5 +53,44 @@ In order to grow our paying customer base to 1000 by June, 2016, we want to see 
 
 Therefore the KPI is a <strong>measurement of progress or a milestone</strong> that we can constantly check every month to ensure that we are going in the right direction to achieve our goal of attaining 1000 paying customers by June, 2016.
 
+## Some Montetization Options:
+        In-app Billing
+        Sell digital and real goods to your users from your free app
+
+        In-app Payments
+        Users purchase items, levels etc, from the application
+
+        Ads
+        Lots of Options: Display ads, in text links, videos and many more.
+        The ads should blend into the experience and not interrupt it
+
+        Affiliate
+        product or service - There are many options where you can make money from
+        referring to goods or services.
+
+        Other Models
+        Email campaigns, selling data, auctions, flash sales, merchandising
+        premium support and many more
+
+        Acquisition
+        How can you put your product in front of enough users to convert and pay for it?
+                - Narrow this 'search'
+                - Less is more here
+                - Focus on a niche market
+
+        Retention
+        Create great user experinces for retention.
+
+        Earning
+        Make it easy for users to pay. In mobile eCommerce there are lots of forms with lots of fields.
+
+
+
+
+
+
+
+
+
 
 
