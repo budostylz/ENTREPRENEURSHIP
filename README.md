@@ -45,11 +45,16 @@ https://buildfire.com/ways-monetize-mobile-app/
  ## HOW TO START AN APP DEVELOPMENT COMPANY
  https://howtostartanllc.com/business-ideas/app-development
 
-## Example Sites
+## Example Startup Sites
 https://app-sauce.com/
 
 https://applife.io/
 
+## Entrepreneurship Essentials 
+https://online.hbs.edu/courses/entrepreneurship-essentials/
+
+## 30 Ways to Become a More Successful Entrepreneur
+https://neilpatel.com/blog/become-successful-entrepreneur/
 
 
 
