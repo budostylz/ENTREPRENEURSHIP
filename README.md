@@ -56,6 +56,9 @@ https://online.hbs.edu/courses/entrepreneurship-essentials/
 ## 30 Ways to Become a More Successful Entrepreneur
 https://neilpatel.com/blog/become-successful-entrepreneur/
 
+## S Corporation Tax Calculator
+https://www.incfile.com/s-corporation-tax-calculator/
+
 
 
  
