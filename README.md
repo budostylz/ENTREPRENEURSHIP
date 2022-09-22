@@ -59,6 +59,9 @@ https://neilpatel.com/blog/become-successful-entrepreneur/
 ## S Corporation Tax Calculator
 https://www.incfile.com/s-corporation-tax-calculator/
 
+## Buisness Analytics Certificate
+[Business Analytics](https://analytics.hbs.edu/requestinfo/cba-prog/?experimentid=21465660333&lsrc=gmailbeta&lsrc=gmailbeta&ef_id=c:564178758883_k:_t:_cp:15363642124_ag:132712770880_tid:_li:_lph:9011959_mt:_n:_d:m_dm:apple%2Biphone_p:_ap:&wbraid=ClAKCQjw7KqZBhDoARI_AGUsBmg4zbCx3o9dR2eg2rjklTsV2bNQUySStuOTAvZycGqDiBssrmE5u0E-5HqQfvG9q_Ic8bTkOfwHkKLHGgIAMQ)
+
 
 
  
