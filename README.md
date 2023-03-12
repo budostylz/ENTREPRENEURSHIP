@@ -65,6 +65,9 @@ https://www.incfile.com/s-corporation-tax-calculator/
 ## Nasdaq
 [Amazon](https://www.nasdaq.com/market-activity/stocks/amzn)
 
+## Balance Score Card
+[Balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard)
+
 
 
  
