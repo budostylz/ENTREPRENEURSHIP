@@ -68,6 +68,9 @@ https://www.incfile.com/s-corporation-tax-calculator/
 ## Balance Score Card
 [Balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard)
 
+## Value Chain Analysis Templates
+[Value Chain Analysis Templates](https://www.edrawmax.com/templates/tag/value-chain-analysis/)
+
 
 
  
