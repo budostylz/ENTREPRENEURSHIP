@@ -71,6 +71,8 @@ https://www.incfile.com/s-corporation-tax-calculator/
 ## Value Chain Analysis Templates
 [Value Chain Analysis Templates](https://www.edrawmax.com/templates/tag/value-chain-analysis/)
 
+## Resize Images
+[Resize Images](https://www.iloveimg.com/resize-image#resize-options,pixels)
 
 
  
